@@ -24,7 +24,7 @@
                         <th>Rôle</th>
                         <th>Lieu de résidence</th>
                         <th>N° de téléphone</th>
-                        <th>Action</th>
+                        <th>Actions </th>
 
                     </tr>
                 </thead>
